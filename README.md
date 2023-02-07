@@ -7,3 +7,5 @@ What I have learned and this is how I have implemented it.
 ![alt text](https://github.com/Aayush-Basnet/Project/blob/39689b62f1d8887a9781816ce14ae8624328f8c4/tictaktoe.png)
 
 # Clock Model
+### Clock Program 
+![alt text](https://github.com/Aayush-Basnet/Project/blob/8ea28c60c68772df16c37f1cafb895f948c6746c/clock.png)
