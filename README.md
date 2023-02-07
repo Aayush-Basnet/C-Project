@@ -9,6 +9,7 @@ What I have learned and this is how I have implemented it.
 # Clock Model
 ### Clock Program 
 ![alt text](https://github.com/Aayush-Basnet/Project/blob/8ea28c60c68772df16c37f1cafb895f948c6746c/clock.png)
-### clock output
+### clock outputphotos
 ![alt text](https://github.com/Aayush-Basnet/Photos/blob/4011f44394683b2555b8ccdafd397f7b0a6e44ec/clock%20photo%201.png)
 ![alt text](https://github.com/Aayush-Basnet/Photos/blob/4011f44394683b2555b8ccdafd397f7b0a6e44ec/clock%20photo%202.png)
+![alt text](https://github.com/Aayush-Basnet/Photos/blob/4011f44394683b2555b8ccdafd397f7b0a6e44ec/clock%20photo%203.png)
