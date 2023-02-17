@@ -16,7 +16,8 @@
 ![alt text](https://github.com/Aayush-Basnet/Photos/blob/4011f44394683b2555b8ccdafd397f7b0a6e44ec/clock%20photo%203.png)
 
 # Mobile Banking System
-Welcome to Mobile Banking System. First register for mobile banking with username, your phone number and password. Once register process is completed, you can login to your mobile banking profile.But to login in, you have to enter your mobile number and password. If mobile number and password is correct, you will get 5 options; ### 1. Balance Inquiry 
+Welcome to Mobile Banking System. First register for mobile banking with username, your phone number and password. Once register process is completed, you can login to your mobile banking profile.But to login in, you have to enter your mobile number and password. If mobile number and password is correct, you will get 5 options;
+### 1. Balance Inquiry 
 ### 2. Deposite 
 ### 3. Withdrawl 
 ### 4. Transfer Amount
