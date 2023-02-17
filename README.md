@@ -16,7 +16,12 @@
 ![alt text](https://github.com/Aayush-Basnet/Photos/blob/4011f44394683b2555b8ccdafd397f7b0a6e44ec/clock%20photo%203.png)
 
 # Mobile Banking System
-Welcome to Mobile Banking System. First register for mobile banking with username, your phone number and password. Once register process is completed, you can login to your mobile banking profile.But to login in, you have to enter your mobile number and password. If mobile number and password is correct, you will get 5 options; 1. Balance Inquiry 2. Deposite 3. Withdrawl 4. Transfer Amount and last Change Password. If your mobile number or password is wrong, you will be log out of the mobile banking system.
+Welcome to Mobile Banking System. First register for mobile banking with username, your phone number and password. Once register process is completed, you can login to your mobile banking profile.But to login in, you have to enter your mobile number and password. If mobile number and password is correct, you will get 5 options; ### 1. Balance Inquiry 
+### 2. Deposite 
+### 3. Withdrawl 
+### 4. Transfer Amount
+### 5. Change Password. 
+If your mobile number or password is wrong, you will be log out of the mobile banking system.
 1.The Balance Inquity helps you to check your current balance.
 2. You can deposite your amount on deposite site.
 3. For amount withdrawl, you can use withdrawl option. But if you try to withdrawl amount more than your current balance, your transaction will be cancelled.
