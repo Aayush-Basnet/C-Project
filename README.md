@@ -44,12 +44,16 @@ Don't worry your amount is save with your password. Only you can login into mobi
 ![alt text](https://github.com/Aayush-Basnet/Photos/blob/f90cf43bbba4f11b034502e552196ba84bd7f3f6/mobilebaking%20.png)
 
 # ATM Sytem
+Have you visited ATM? What is it's system? What is it process? How you withdraw your money?
 
 ![alt tex](https://github.com/Aayush-Basnet/Photos/blob/a3fec0ed135f88e28a58fb91aa03b234ac58367a/atmproject1.png)
 ![alt text](https://github.com/Aayush-Basnet/Photos/blob/a3fec0ed135f88e28a58fb91aa03b234ac58367a/atmproject2.png)
 ![alt text](https://github.com/Aayush-Basnet/Photos/blob/a3fec0ed135f88e28a58fb91aa03b234ac58367a/atmproject3.png)
-
-
+It's all start with your pin number. First you enter your pin number. It will give you it's transaction option only if pin numberis correct. Same happens in this system. It will give you 3 option only if you entered your correct pin number.
+### 1. Withdraw
+### 2. Deposite
+### 3. Check Balance
+After you done finishing your choiced task it will ask you if you want to continue? If 'yes" then it will again give the previous choice. If 'no' then you will be logged out from the program.
 ### Output
 ![alt text](https://github.com/Aayush-Basnet/Photos/blob/a3fec0ed135f88e28a58fb91aa03b234ac58367a/atmprojectoutput1.png)
 ![alt text](https://github.com/Aayush-Basnet/Photos/blob/a3fec0ed135f88e28a58fb91aa03b234ac58367a/atmprojectoutput2.png)
