@@ -42,3 +42,9 @@ Don't worry your amount is save with your password. Only you can login into mobi
 ![alt text](https://github.com/Aayush-Basnet/Photos/blob/f90cf43bbba4f11b034502e552196ba84bd7f3f6/mobilebanking%20registration.png)
 ![alt text](https://github.com/Aayush-Basnet/Photos/blob/f90cf43bbba4f11b034502e552196ba84bd7f3f6/mobilebanking%20choice%201.png)
 ![alt text](https://github.com/Aayush-Basnet/Photos/blob/f90cf43bbba4f11b034502e552196ba84bd7f3f6/mobilebaking%20.png)
+
+#ATM Sytem
+
+![alt tex](https://github.com/Aayush-Basnet/Photos/blob/a3fec0ed135f88e28a58fb91aa03b234ac58367a/atmproject1.png)
+![alt text](https://github.com/Aayush-Basnet/Photos/blob/a3fec0ed135f88e28a58fb91aa03b234ac58367a/atmproject2.png)
+![alt text](https://github.com/Aayush-Basnet/Photos/blob/a3fec0ed135f88e28a58fb91aa03b234ac58367a/atmproject3.png)
