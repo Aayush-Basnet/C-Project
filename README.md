@@ -44,7 +44,7 @@ Don't worry your amount is save with your password. Only you can login into mobi
 ![alt text](https://github.com/Aayush-Basnet/Photos/blob/f90cf43bbba4f11b034502e552196ba84bd7f3f6/mobilebaking%20.png)
 
 # ATM Sytem
-Have you visited ATM? What is it's system? What is it process? How you withdraw your money?
+Have you visited ATM? What is it's process? How ATM works? How you have withdraw your money?
 
 ![alt tex](https://github.com/Aayush-Basnet/Photos/blob/a3fec0ed135f88e28a58fb91aa03b234ac58367a/atmproject1.png)
 ![alt text](https://github.com/Aayush-Basnet/Photos/blob/a3fec0ed135f88e28a58fb91aa03b234ac58367a/atmproject2.png)
