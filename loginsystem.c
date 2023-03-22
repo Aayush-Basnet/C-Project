@@ -17,16 +17,7 @@ void takeinput(char ch[50]){
 fgets(ch,50,stdin);
 ch[strlen(ch)-1]=0;
 }
-/*
-void generateUsername(char email[50],char username[50]){
-//abc123@gmail.com
-for(int i=0; i<strlen(email);i++){
-    if(email[i]=='@') 
-	break;
-    else 
-	username[i]=email[i];
-}
-*/
+
 void generateUsername(char email[50], char username[50]) {
     //abc123@gmail.com
     int i;
@@ -95,18 +86,7 @@ switch(opt)
         printf("\nConfirm your password: \t");
         takepassword(password2);
 
-      /*  if(!strcmp(user.password,password2)){
-           generateUsername(user.email,user.username);
-           fp=fopen("Users.dat","a+");
-           fwrite(&user,sizeof(struct user),1,fp);
-           if(fwrite!=0) printf("\n\n User registration success, Your username is %s",user.username);
-           else printf("\n\n Sorry! Something went wrong :(");
-        fclose(fp);
-        }else {
-        printf("\n\nPassword Incorrect");
-        Beep(450,300);
-        }
-      */  
+      
       if (!strcmp(user.password, password2)) {
 	  
     generateUsername(user.email, user.username);
