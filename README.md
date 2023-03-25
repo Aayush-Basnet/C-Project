@@ -60,6 +60,9 @@ After you done finishing your choiced task it will ask you if you want to contin
 ![alt text](https://github.com/Aayush-Basnet/Photos/blob/a3fec0ed135f88e28a58fb91aa03b234ac58367a/atmprojectoutput2.png)
 
 ## Sign Up and Login System
+### Homepage
 ![alt text](https://github.com/Aayush-Basnet/Project/blob/5974c313c32bc850302f01967c4e96630ccc59ce/Project%20Images/loginsystemhomepage.png)
 ### Sign Up page
 ![alt text](https://github.com/Aayush-Basnet/Project/blob/6a414acd7859828d9906ccf99a3989721f5afff9/Project%20Images/loginsystemoption1.png)
+### Option 2
+![alt text](https://github.com/Aayush-Basnet/Project/blob/a3b2ecb9c291a822fde31e7ffedf7153806ec313/Project%20Images/loginsystemoption2.png)
