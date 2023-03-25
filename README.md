@@ -67,6 +67,6 @@ After you done finishing your choiced task it will ask you if you want to contin
 ### Option 2 (Login)
 ![alt text](https://github.com/Aayush-Basnet/Project/blob/a3b2ecb9c291a822fde31e7ffedf7153806ec313/Project%20Images/loginsystemoption2.png)
 ### Login Page
-1[alt text](https://github.com/Aayush-Basnet/Project/blob/61d45770b1d5b6650ecc4da8bf008e4580adfe9d/Project%20Images/loginsystemoption2output.png)
+![alt text](https://github.com/Aayush-Basnet/Project/blob/61d45770b1d5b6650ecc4da8bf008e4580adfe9d/Project%20Images/loginsystemoption2output.png)
 ### option 3 (Exit)
 ![alt text](https://github.com/Aayush-Basnet/Project/blob/ff924dccdd42885e13ca28f81c2cdb998b224a36/Project%20Images/loginsystemoption3.png)
